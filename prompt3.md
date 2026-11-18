@@ -24,3 +24,11 @@ Nếu bài viết quá dài khiến hệ thống chạm giới hạn xuất dữ
 - Khi người dùng nhập lệnh điều khiển tiếp tục, bạn phải nối tiếp chính xác từ ký tự/từ cuối cùng bị ngắt, giữ nguyên định dạng Markdown, văn phong và mạch lập luận của phần trước.
 
 Bắt đầu viết bài PR ngay bây giờ.
+```
+----
+Hệ thống vừa bị ngắt quãng do giới hạn độ dài. Hãy tiếp tục viết phần còn lại của bài PR từ `[CONTEXT_STEP_2]`.
+
+# RÀNG BUỘC NỐI TIẾP BẮT BUỘC:
+1. **Điểm bắt đầu:** Nối tiếp chính xác ngay sau cụm từ cuối cùng bạn vừa xuất ra là: "[COPY 10-15 TỪ CUỐI CÙNG MÀ AI VỪA VIẾT DÁN VÀO ĐÂY]".
+2. **Không lặp lại:** Tuyệt đối không viết lại tiêu đề hay các đoạn văn đã xuất hiện ở phần trên.
+3. **Giữ nguyên trạng thái:** Duy trì chính xác giọng điệu chuyên nghiệp, tin cậy, hệ thống thẻ Markdown (H2, H3) và tiếp tục hoàn thiện bài viết cho đến hết phần CTA cuối cùng.
